@@ -3,10 +3,13 @@
 
 Student ID: `21049134`
 
-The application is created to advance workplace mental health and wellbeing for employees. Employees will be able to check in and express their emotions via this application, giving immediate feedback on their emotional status. Companies may keep an eye on this feedback and get alerts for workers who might need further assistance or intervention.
+The application is designed with the goal of promoting workplace mental health and acts as a proactive tool for both management and employees. Through a simple interface, such as clicking on an icon like a smiling face, workers log in and "check-in" their present emotional state. The management is kept up to date due to this straightforward, fast feedback system.
 
-With the use of this application, companies will be able to proactively detect and address concerns pertaining to employee welfare while also fostering a good and encouraging work environment. Employers may build focused treatments and enhance the general wellness of their staff by tracking and monitoring employee wellbeing.
+Within the same application, a unique management portal allows real-time monitoring of this feedback. The system is programmed to send alerts to management when an employee's check-ins suggest the need for additional support. This ensures timely intervention and assistance.
 
-The usage of this application will be especially beneficial for businesses with a sizable staff, several locations, and high stress working conditions. Businesses may access information on employee wellness, quickly spot trends and patterns, and decide how best to assist their staff and allocate resources.
+The application also provides a set of analytical tools. These give businesses the ability to track, monitor, and assess the overall health of their workforce, supporting the creation of focused plans to improve wellness and promote a positive work environment.
 
-The application is a useful tool for fostering workplace mental health and wellbeing among employees. It attempts to raise employee happiness, lower absenteeism and turnover rates, and ultimately benefit both workers and companies.
+This application is particularly beneficial for businesses with large workforces, multiple locations, or high-stress work conditions. It enables efficient access to wellbeing data, helping identify trends, patterns, and resource allocation strategies.
+
+By leveraging a broad range of SDK features, the application aims to enhance employee happiness, reduce absenteeism, and turnover rates, and provide mutual benefits for both employees and businesses.
+
