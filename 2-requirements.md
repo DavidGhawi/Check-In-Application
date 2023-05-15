@@ -1,6 +1,30 @@
 **Mobile Development 2022/23 Portfolio**
 # Requirements
 
-Student ID: `your id here`
+Student ID: `21049134`
 
-_Complete the information above and then enumerate your functional and non functional requirements below.__
+**Functional Requirements**
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+**Non-Functional Requirements**
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
