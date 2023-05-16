@@ -5,16 +5,19 @@ Student ID: `21049134`
 
 **Functional Requirements**
 
--
--
--
--
--
--
--
--
--
--
+- The application must allow logged in users to navigate using the Bottom Navigation bar.
+- If the user submitted more than 2 check ins a graph must be shown.
+- If the user has not submitted enough check ins the graph should not appear.
+- If the user has not submitted enough check ins a message should appear informing the user that there are not enough check ins to produce the graph.
+- The application should only save the rating if the user has clicked the submit button.
+- When the user clicks the average button, the average should be displayed as a toast.
+- The application should automatically redirect the user to the login page once registration is successful.
+- The application should ignore case sensitive characters.
+- If the user logins in successfully, the application should be able to fetch previous check ins and use them in the graph and average.
+- The application should have a clean and modern user interface.
+- The application should deny a repeat check in; if the user attempts to check in twice a day, a toast should appear denying that request.
+- The application should send a notification at 16:00 local time to remind the user to submit a check in for the day.
+- Each user should have a specific ID that is saved in the Room database.
 
 **Non-Functional Requirements**
 
