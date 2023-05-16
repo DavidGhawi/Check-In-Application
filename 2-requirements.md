@@ -24,8 +24,6 @@ Student ID: `21049134`
 - The font used in the application must be consistent across all activities to ensure a uniform user experience.
 - The application must maintain a consistent styling and color theme to enhance user interface and user experience.
 - The application shall scale the font in accordance with the user’s font size preference, ensuring accessibility for all users.
-- Upon the first launch, the application shall prompt users to input their employee ID for personalized experience.
-- Once the employee ID is entered, the application must fetch and display the previous check-ins within 5 seconds to maintain a responsive interface.
 - If an employee ID is not found or entered incorrectly, the application must navigate to a help activity within 2 seconds.
 - When a user rates their emotion for the first time in a day, the application must add a visual marker on the calendar view, animating towards that marker with a duration of 3000ms.
 - The calendar view should support landscape mode for better visibility of the entire month's check-ins.
