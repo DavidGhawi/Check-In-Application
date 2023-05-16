@@ -7,8 +7,7 @@ Student ID: `21049134`
 
 - The application must allow logged in users to navigate using the Bottom Navigation bar.
 - If the user submitted more than 2 check ins a graph must be shown.
-- If the user has not submitted enough check ins the graph should not appear.
-- If the user has not submitted enough check ins a message should appear informing the user that there are not enough check ins to produce the graph.
+- If the user has not submitted enough check ins (less than 2) a message should appear informing the user that there are not enough check ins to produce the graph.
 - The application should only save the rating if the user has clicked the submit button.
 - When the user clicks the average button, the average should be displayed as a toast.
 - The application should automatically redirect the user to the login page once registration is successful.
