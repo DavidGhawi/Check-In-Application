@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بوابة الحضور</string>
+    <string name="register">تسجيل</string>
+    <string name="login_email_hint">البريد الإلكتروني</string>
+    <string name="login_password_hint">كلمة المرور</string>
+    <string name="login_password_hint_checker">إعادة كتابة كلمة المرور</string>
+    <string name="signup_login_hint">هل لديك حساب؟ تسجيل الدخول</string>
+    <string name="login_signup_hint">ليس لديك حساب؟ التسجيل</string>
+    <string name="login_name_hint">الاسم</string>
+    <string name="login_mobile_number_hint">رقم الجوال</string>
+    <string name="channel_name">قناة التذكير اليومية</string>
+    <string name="channel_description">يتم استخدام هذه القناة للتذكير اليومي بالإشعارات</string>
+</resources>

@@ -1,4 +1,4 @@
-package com.example.mob_dev_portfolio;
+package com.example.check_in_portal;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.mob_dev_portfolio", appContext.getPackageName());
+        assertEquals("com.example.check_in_portal", appContext.getPackageName());
     }
 }

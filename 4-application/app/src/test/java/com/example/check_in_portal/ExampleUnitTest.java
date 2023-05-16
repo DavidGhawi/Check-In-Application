@@ -1,4 +1,4 @@
-package com.example.mob_dev_portfolio;
+package com.example.check_in_portal;
 
 import org.junit.Test;
 

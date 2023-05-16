@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.mob_dev_portfolio"
-        minSdk 28
-        targetSdk 32
+        applicationId "com.example.check_in_portal"
+        minSdk 21
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
@@ -25,13 +25,32 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
+    buildFeatures {
+        viewBinding true
+
+    }
+
+    dataBinding {
+        enabled true
+    }
 }
 
 dependencies {
 
-    implementation 'androidx.appcompat:appcompat:1.5.0'
-    implementation 'com.google.android.material:material:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.8.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.room:room-runtime:2.5.0'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation 'com.jjoe64:graphview:4.2.2'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.android.material:material'
+    annotationProcessor 'androidx.lifecycle:lifecycle-compiler:2.6.0'
+    annotationProcessor 'androidx.room:room-compiler:2.5.0'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    androidTestImplementation 'androidx.room:room-testing:2.5.0'
+    androidTestImplementation 'com.androidx.support.test:runner'
 }
